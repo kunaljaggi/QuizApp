@@ -1,8 +1,7 @@
 package com.quizapp;
 
-/**
- * Created by kunaljaggi on 12/23/13.
- */
-public class QuestionVO {
+import java.io.Serializable;
+
+public class QuestionVO implements Serializable{
     public QuestionVO(){}
 }
