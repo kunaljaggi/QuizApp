@@ -2,7 +2,7 @@
 /local.properties
 /.idea/workspace.xml
 .DS_Store
-#*.iml
+*.iml
 # built application files
 *.apk
 *.ap_
