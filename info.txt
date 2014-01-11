@@ -1,1 +1,2 @@
 Added content to info
+This change made into the new remote branch
